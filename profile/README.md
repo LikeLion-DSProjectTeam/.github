@@ -6,12 +6,12 @@ We are a passionate group of students from UW-Madison dedicated to building inno
 Our mission is to bridge the gap between technology and community by creating data science projects that are not only functional but also contribute to solving real-world problems.  
 We aim to foster an environment where students can learn, experiment, and grow as aspiring software developers.
 
-
+<!--
 ## 💼 Our Projects 
 ### 1. Project Name - [Brief description of the project]
    - **Technologies:** React Native, Flask, etc.
    - **Goal:** Briefly describe the purpose of this project and what problem it addresses.
-
+-->
 
 ## 🛠️ Tech Stack
 We work with a variety of programming languages and technologies to bring our ideas to life:
