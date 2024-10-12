@@ -22,12 +22,12 @@ We work with a variety of programming languages and technologies to bring our id
 
 ## 👥 Meet Our Team
 We are a team of developers, designers, and innovators. Here’s a list of our members:
-- **[John Oh]** - Mentor
-- **[Arden Kim]** - Mentor
-- **[Beomseong Kim]** - Mentee
-- **[Hari kang]** - Mentee
-- **[Ikjoo Oh]** - Mentee
-- **[Yunji Lee]** - Mentee
+- **John Oh** - Mentor
+- **Arden Kim** - Mentor
+- **Beomseong Kim** - Mentee
+- **Hari kang** - Mentee
+- **Ikjoo Oh** - Mentee
+- **Yunji Lee** - Mentee
 
 ## 🎯 Our Goals
 1. To create open-source projects that contribute to the LikeLion community and beyond.
