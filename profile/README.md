@@ -40,21 +40,6 @@ We are a team of developers, designers, and innovators. Here’s a list of our m
 2. To enhance our skills and learn new technologies through hands-on project development.
 3. To build meaningful projects that tackle real-life problems in areas such as **education, health, and technology accessibility**.
 
-## 📖 Get Started
-We welcome contributors! To get started:
-1. Clone this repository: `git clone https://github.com/LikeLion-DSProjectTeam/repo-name.git`
-2. Navigate into the directory: `cd repo-name`
-3. Install the required dependencies: `npm install` (for Node projects), `pip install -r requirements.txt` (for Python projects)
-4. Follow the project-specific instructions in each project's README for further setup.
-
-## 🤝 How to Contribute
-If you'd like to contribute to our projects:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
 We welcome new ideas and fresh perspectives, so feel free to open an issue or reach out!
 
 ## ✉️ Contact Us
