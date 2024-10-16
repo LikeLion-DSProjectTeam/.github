@@ -17,7 +17,7 @@ We aim to foster an environment where students can learn, experiment, and grow a
 We work with a variety of programming languages and technologies to bring our ideas to life:
 - **Backend:** Python
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, Pycharm, Jupyter Notebook
+- **Tools:** Git, GitHub, VSCode, Pycharm, Jupyter Notebook
 
 
 ## 👥 Meet Our Team
